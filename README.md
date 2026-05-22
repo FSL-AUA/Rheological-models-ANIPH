@@ -1,6 +1,6 @@
 ANIPH Machine Learning Models
 
-This repository contains the machine learning workflow developed in the ANIPH project for predicting rheological properties of PHBV polymers. Models are developed separately for short-chain-length PHAs (sclPHAs) and medium-chain-length PHAs (mclPHAs).
+This repository contains the machine learning workflow developed in the ANIPH project for predicting rheological properties (storage modulus and loss modulus) of PHBV polymers. Models are developed separately for short-chain-length PHAs (sclPHAs) and medium-chain-length PHAs (mclPHAs).
 
 Each subfolder corresponds to a specific property/material combination and contains:
 
